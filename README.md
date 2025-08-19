@@ -19,7 +19,6 @@
 
 ## 📈 GitHub Stats
 
-![Naznin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazninbasheer&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazninbasheer&layout=compact&theme=radical)
 
 ---
