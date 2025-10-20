@@ -9,11 +9,13 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Mobile Development**: Android (Kotlin), Flutter, iOS (Learning Swift)  
-- **Front-End**: HTML5, CSS3, PHP  
-- **Back-End**: Node.js, Express.js  
-- **Database**: MongoDB, MySQL, Firebase  
-- **Other**: REST APIs, Firebase, Git & GitHub  
+- **Mobile Development:** Android (Kotlin), Flutter, iOS (Swift, SwiftUI, Storyboard)  
+- **Front-End:** HTML5, CSS3, PHP  
+- **Back-End:** Node.js, Express.js, Spring Boot  
+- **Database:** MongoDB, MySQL, Firebase  
+- **Design & Prototyping:** Figma  
+- **Other:** REST APIs, Firebase, Git & GitHub
+
 
 ---
 
