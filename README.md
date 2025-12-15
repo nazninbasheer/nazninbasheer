@@ -1,6 +1,6 @@
 # Hi there, I'm Naznin Basheer 👋
 
-🎓 Mvoc Software Application developement | 💻 Android, iOS & Web Developer  
+🎓 Mvoc Software Application Development Student at CUSAT | 💻 Android, iOS & Web Developer  
 🚀 Passionate about building clean UIs, efficient APIs, and user-friendly apps  
 📍 Open to global tech opportunities | Based in 🇮🇳
 
@@ -18,8 +18,7 @@
 
 ---
 
-## 🌐 Portfolio
-🔗 [Portfolio](https://nazninbasheer.github.io)  
+ [Portfolio](https://nazninbasheer.github.io)  
 ---
 
 ## 📈 GitHub Stats
@@ -31,7 +30,7 @@
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nazninbasheer21/)  
-- 📧 [Email](nazninbasheer@gmail.com)
+- 📧 Email:nazninbasheer@gmail.com
 
 ---
 
