@@ -52,8 +52,8 @@
 
 ## 📫 Let’s Connect  
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/nazninbasheer21/  
-- 📧 **Email:** nazninbasheer@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nazninbasheer21/)
+- 📧 [Email](nazninbasheer@gmail.com)
 
 ---
 
