@@ -40,7 +40,7 @@
 ---
 
 ## 🌐 Portfolio  
-👉 **https://nazninbasheer.github.io**
+👉 [Take a look](https://nazninbasheer.github.io)
 
 ---
 
